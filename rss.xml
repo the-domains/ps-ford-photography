@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[PS Ford Photography]]></title>
         <description><![CDATA[PS Ford Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ps-ford-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 17:40:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 16 Feb 2016 02:53:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ps-ford-photography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Mike O'Callaghan–Pat Tillman Memorial Bridge</p>]]></description>
+            <link>https://thegrid.ai/ps-ford-photography/2705d740-ad57-4a4f-8b06-095e6f3a02f7/index.html</link>
+            <guid isPermaLink="false">2705d740-ad57-4a4f-8b06-095e6f3a02f7</guid>
+            <pubDate>Tue, 16 Feb 2016 02:41:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[NYC IR #1]]></title>
-            <description><![CDATA[<article><h1>NYC IR #1</h1><p>IR Photo from Highline Park in NYC</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a94bea60da8fb5e224f72be06e0c55f05727802c.jpg"></article>]]></description>
-            <link>undefinednyc-ir-1/index.html</link>
+            <description><![CDATA[<article><h1>NYC IR #1</h1><p>IR Photo from Highline Park in NYC</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cd4deda3de7e33a8eba20f7326d7ead304c0dd96.jpg"></article>]]></description>
+            <link>https://thegrid.ai/ps-ford-photography/nyc-ir-1/index.html</link>
             <guid isPermaLink="false">ea747243-2def-4eda-8801-61b86c2a9691</guid>
             <pubDate>Mon, 15 Feb 2016 17:40:03 GMT</pubDate>
         </item>
